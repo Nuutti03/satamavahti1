@@ -5,7 +5,7 @@ namespace Satamavahti
 {
     public partial class WebForm : System.Web.UI.Page
     {
-        // Tämä voi olla esimerkki tiedoista, joita voisi tulla tietokannasta.
+        // Tämä voi olla esimerkki tiedoista, joita voisi tulla tietokannasta.,,,
         private static readonly string[] satamat = { "Hanko", "Helsinki", "Inkoo", "Kotka-Hamina", "Loviisa", "Sköldvik" };
         private static readonly string[] laivat = { "Purjelaiva", "Soutuvene", "Moottorivene", "Kanootti" };
 
